@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <locale.h>
-int N, K, M;
 
 void main(void)
 {
